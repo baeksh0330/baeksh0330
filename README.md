@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning C, JAVA, PYTHON and Defold engine.
 <!--
 **baeksh0330/baeksh0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

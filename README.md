@@ -1,6 +1,6 @@
 # Songhee Baek👍   
-### Gachon univ. AI & Software department  
-* Majoring in AI.<br>
+### Gachon univ. College of IT Convergence
+* Majoring in Artificial Intelligence.<br>
 * Interested in HCI, Digital Mental-Health Care. <br><br>
 
 ## Languages & Platforms

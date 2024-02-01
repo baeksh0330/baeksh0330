@@ -1,6 +1,7 @@
 # Songhee Baek👍   
 ### Gachon univ. AI & Software department  
-majoring in AI, interested in languages. <br><br>
+* Majoring in AI.<br>
+* Interested in HCI, Digital Mental-Health Care. <br><br>
 
 ## Languages & Platforms
 <img src="https://img.shields.io/badge/Python-8FCC52?style=flat-square&logo=Python&logoColor=white"/></a>

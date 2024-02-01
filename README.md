@@ -1,5 +1,5 @@
 # Songhee Baek👍   
-### Gachon univ. College of IT Convergence
+### Gachon uni. College of IT Convergence
 * Majoring in Artificial Intelligence.<br>
 * Interested in HCI, Digital Mental-Health Care. <br><br>
 

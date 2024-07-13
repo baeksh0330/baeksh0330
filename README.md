@@ -33,7 +33,7 @@ Gachon University, Gyeonggi-do, South Korea <code>(Apr 2020 - Feb 2025)</code><b
 <br><br><br>
 
 ## 🏫Activities
-· Overseas internship in Monash University, Melbourne, Australia <code>(Jan 2024 - Feb 2024)</code><br>
+· Overseas internship in Monash University, Melbourne, Australia <code>(Dec 2023 - Feb 2024)</code><br>
 · BioHealth Medical Device Convergence Major - Nano degree in Gachon University, South Korea <code>(Jul 2024)</code><br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baeksh0330)](https://solved.ac/baeksh0330/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baeksh0330&layout=compact&theme=default)

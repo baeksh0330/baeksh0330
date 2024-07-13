@@ -19,7 +19,6 @@
 
 ## 💡 Study records
 <a href="https://blog.naver.com/baeksh0330" target="_blank"><img src="https://img.shields.io/badge/blog-56B366?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://velog.io/@baeksh0330" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white"/></a>
 <br><br><br>
 
 ## 🆕 Portfolio

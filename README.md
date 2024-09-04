@@ -26,7 +26,7 @@ I'm currently interested in Machine Learning, Digital Mental-Health Care.
 
 ## 💡 Study records & Portfolio
 <a href="https://blog.naver.com/baeksh0330" target="_blank"><img src="https://img.shields.io/badge/blog-56B366?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://thdgml33o.notion.site/f4e3b9fc343141f18eae84321b9afc39?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=White"/></a>
+<a href="https://2ehgsfilms.notion.site/f4e3b9fc343141f18eae84321b9afc39?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=White"/></a>
 <br><br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baeksh0330)](https://solved.ac/baeksh0330/)

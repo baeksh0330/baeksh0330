@@ -2,7 +2,7 @@
  
 ## Hello, I'm Songhee Baek. 👍
 I'm studying for technology & services for everyone. <br>
-I'm currently interested in Machine Learning, Digital Mental-Health Care.
+I'm currently interested in Machine Learning, HCI, Digital Mental-Health Care.
 
 <br><br>
 

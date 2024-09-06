@@ -18,7 +18,7 @@ I'm currently interested in Machine Learning, HCI, Digital Mental-Health Care.
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-D24939?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <br>
-
+<br><br>
 ## 💡 Study records & Portfolio
 <a href="https://blog.naver.com/baeksh0330" target="_blank"><img src="https://img.shields.io/badge/blog-56B366?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://2ehgsfilms.notion.site/f4e3b9fc343141f18eae84321b9afc39?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=White"/></a>
